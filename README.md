@@ -31,7 +31,7 @@ You host it yourself on Vercel, keep the count in Upstash Redis (both free tiers
 
 - **Ten animated digits** (0-9), 90x100 px GIFs with transparent backgrounds, in `LeoPack/`.
 - **Four timing variants per digit** (`3.gif`, `3_1.gif`, `3_2.gif`, `3_3.gif`: different loop start and speed), so neighbouring digits never move in unison.
-- Idle animation: Ears twitch, the tail tuft flicks, Leo blinks, and the little sparkles, action lines and "zzz" around him twinkle.
+- Idle animation: ears and the tail tuft swing about their joints, Leo blinks (on the digits with open eyes), a light band sweeps across each note, and the little sparkles, action lines and "zzz" twinkle. Every digit has its own timing.
 - Counting modes: `strict` (+1 per request), `unique` (+1 per IP per cooldown window), `aggressive` (+N per request).
 - Palette: sticky-note yellow, mint, sakura pink, ocean blue, white and dark grey (the app themes).
 
