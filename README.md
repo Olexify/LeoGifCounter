@@ -62,3 +62,12 @@ GitHub caches images, so the number can lag on your profile page. Open the endpo
 ## Credits
 
 Sprites generated with ChatGPT image generation, then cut, painted with numbers and animated with custom tools. Based on the [Cute Foxes GIF Counter](https://github.com/Olexify/CuteFoxesGIFCounter).
+
+---
+
+<p align="center">
+  <img src="https://leogifcounter.vercel.app/api/counter" width="480" alt="Leonote GIF Counter" />
+</p>
+<p align="center">
+  <sub>Live counter powered by Vercel + Upstash Redis</sub>
+</p>
